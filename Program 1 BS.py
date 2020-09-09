@@ -1,0 +1,1 @@
+print ("Betisor Sorin","07.10.2004","Republica Moldova",sep='\n')
